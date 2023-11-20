@@ -1,0 +1,3 @@
+SQL Server wait types
+https://www.sqlshack.com/sql-server-wait-types/
+
